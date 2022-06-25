@@ -1,0 +1,5 @@
+A.    SELECT * FROM CoffieShop WHERE Product = ' Latte' OR 'Long Black' AND City <> 'Philadelphia'
+
+B.  Select Product From CoffeShop Where Customer ref = "william thompson_86" OR "mark taylor_113"
+
+C. Select City From CoffeShop Where Product = "Capuccino" or "Flat White"
